@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 muhammad.iqbal618 StafCS 4096 Sep  8 11:19 .
+drwx--x--x  3 muhammad.iqbal618 StafCS 4096 Sep  8 11:15 ..
+drwxr-xr-x  8 muhammad.iqbal618 StafCS 4096 Sep  8 11:17 .git
+-rw-r--r--  1 muhammad.iqbal618 StafCS    0 Sep  8 11:19 lab01.txt
+-rw-r--r--  1 muhammad.iqbal618 StafCS    7 Sep  8 10:45 README.md
+drwxr-xr-x  2 muhammad.iqbal618 StafCS 4096 Sep  8 11:01 SandBox
+drwxr-xr-x  2 muhammad.iqbal618 StafCS 4096 Sep  8 11:15 week00
+drwxr-xr-x  2 muhammad.iqbal618 StafCS 4096 Sep  8 10:56 week01
+drwxr-xr-x  2 muhammad.iqbal618 StafCS 4096 Sep  8 10:57 week02
+drwxr-xr-x  2 muhammad.iqbal618 StafCS 4096 Sep  8 10:57 week03
+drwxr-xr-x  2 muhammad.iqbal618 StafCS 4096 Sep  8 10:57 week04
+drwxr-xr-x  2 muhammad.iqbal618 StafCS 4096 Sep  8 10:57 week05
+drwxr-xr-x  2 muhammad.iqbal618 StafCS 4096 Sep  8 10:58 week06
+drwxr-xr-x  2 muhammad.iqbal618 StafCS 4096 Sep  8 10:58 week07
+drwxr-xr-x  2 muhammad.iqbal618 StafCS 4096 Sep  8 10:58 week08
+drwxr-xr-x  2 muhammad.iqbal618 StafCS 4096 Sep  8 10:58 week09
+drwxr-xr-x  2 muhammad.iqbal618 StafCS 4096 Sep  8 10:59 week10
+/home/fasilkom/mahasiswa/m/muhammad.iqbal618/os162/week01
